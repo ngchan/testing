@@ -4,5 +4,6 @@ import matplotlib.pyplot as plt
 import datagen as dg
 
 data = dg.linearData()
+
 print(data)
 
