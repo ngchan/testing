@@ -8,9 +8,9 @@ Collection of useful test scripts
   - Demo mini-blockchain
 - coordtool
   - Tools for coordinate related problems
--plotting
+- plotting
   - Collection of various plots
--watchdog_blink
+- watchdog_blink
   - Arduino watchdog tests
--weather_station
+- weather_station
   - Arduino bluetooth weather station
