@@ -3,7 +3,7 @@
 Collection of useful test scripts
 
 - ML
-  - Linear regression tool (Unfinished)
+  - Linear regression with gradient descent (Unfinished)
 - blockchain
   - Demo mini-blockchain
 - coordtool
